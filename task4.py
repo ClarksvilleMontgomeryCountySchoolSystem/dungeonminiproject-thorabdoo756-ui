@@ -1,4 +1,4 @@
-drawbridge_raised = False
+drawbridge_raised = True
 
 if not drawbridge_raised:
     outcome = "Thunder: of the sheer clap of the drawbridge."

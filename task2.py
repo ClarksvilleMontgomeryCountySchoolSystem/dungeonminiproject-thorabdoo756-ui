@@ -1,4 +1,4 @@
-has_key = False
+has_key = True
 
 if has_key:
     outcome = "Click: of the key in the lock."
