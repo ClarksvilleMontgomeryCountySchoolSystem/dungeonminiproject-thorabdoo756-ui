@@ -1,7 +1,7 @@
 Escaped = True
 
 if Escaped:
-    outcome = "legend: of the legendary warrior."
+    outcome = "Legend: of the legendary warrior."
 else:
     outcome = "Doom: is to your certain death."
 

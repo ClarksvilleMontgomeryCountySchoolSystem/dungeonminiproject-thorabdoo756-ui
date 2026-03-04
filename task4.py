@@ -1,7 +1,7 @@
-Drawbridge_raised = True
+drawbridge_raised = False
 
-if not Drawbridge_raised:
-    outcome = "thunder: of the sheer clap of the drawbridge."
+if not drawbridge_raised:
+    outcome = "Thunder: of the sheer clap of the drawbridge."
 else:
     outcome = "Doom: because you may not pass."
 
